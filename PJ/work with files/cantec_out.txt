@@ -1,0 +1,63 @@
+
+ Even if we both break down tonight		---|---- numarul de cuvinte 7------|0.1231405
+ And you say you hate me, and we go to bed angry		---|---- numarul de cuvinte 12------|0.521587
+ I know everything will be alright		---|---- numarul de cuvinte 6------|0.5546462
+ I'll be here waiting, I promise I'm changing		---|---- numarul de cuvinte 8------|0.9925179
+ I just need		---|---- numarul de cuvinte 3------|0.68334347
+ A little time to show you I'm worth it		---|---- numarul de cuvinte 9------|0.95775557
+ I know that I can be a difficult person		---|---- numarul de cuvinte 9------|0.8958282
+ I'm a stress case, drive you up the wall when I'm workin'		---|---- numarul de cuvinte 12------|0.65290546
+ Actually, I'm probably worse when I'm not, you don't deserve it		---|---- numarul de cuvinte 11------|0.58194363
+ Make you nervous 'cause you know I'ma break soon		---|---- numarul de cuvinte 9------|0.66213065
+ Every time I do, I say somethin' that hurts you		---|---- numarul de cuvinte 10------|0.81604606
+ Actin' like I'm gone, but we both in the same room		---|---- numarul de cuvinte 11------|0.99562645
+ I don't like to be wrong, which I know you relate to		---|---- numarul de cuvinte 12------|0.94237196
+ And I know I make you feel like you're at the end of your rope		---|---- numarul de cuvinte 15------|0.19421752
+ That's when I look at you and tell you I'd be better alone		---|---- numarul de cuvinte 13------|0.7853342
+ Just the pride talkin', isn't it? 'Cause both of us know		---|---- numarul de cuvinte 11------|0.9608582
+ I'm the definition of "wreck" if you look into my soul		---|---- numarul de cuvinte 11------|0.9008263
+ Comes out the most when I feel I'm in a vulnerable place		---|---- numarul de cuvinte 12------|0.6741374
+ Made a lot of mistakes I wish I knew how to erase		---|---- numarul de cuvinte 12------|0.71235436
+ WHEN I'M AFRAID, MIGHT GET DISTANT AND I PUSH YOU AWAY		---|---- numarul de cuvinte 11------|0.061163228
+ But no matter the case, I'ma do whatever it takes even if		---|---- numarul de cuvinte 12------|0.24013868
+ Even if we both break down tonight		---|---- numarul de cuvinte 7------|0.7271007
+ And you say you hate me, and we go to bed angry		---|---- numarul de cuvinte 12------|0.15195933
+ I know everything will be alright		---|---- numarul de cuvinte 6------|0.22743632
+ I'LL BE HERE WAITING, I PROMISE I'M CHANGING		---|---- numarul de cuvinte 8------|0.02681793
+ I just need		---|---- numarul de cuvinte 3------|0.88867295
+ Time (oh)		---|---- numarul de cuvinte 2------|0.5274223	(*)
+ I, I need time (oh, oh)		---|---- numarul de cuvinte 6------|0.7361443
+ I just need time (oh)		---|---- numarul de cuvinte 5------|0.89167786	(*)
+ I, I need time (oh)		---|---- numarul de cuvinte 5------|0.16715465	(*)
+ TIME (OH), TIME (OH)		---|---- numarul de cuvinte 4------|0.059010968	(*)
+ Yeah, way before I bought you the ring		---|---- numarul de cuvinte 8------|0.5474778
+ We were fighting back and forth like you were wearin' the thing		---|---- numarul de cuvinte 12------|0.39231506
+ Two passionate people not afraid to say what they think		---|---- numarul de cuvinte 10------|0.73380697
+ Lead to passionate conversation when it's hard to agree		---|---- numarul de cuvinte 9------|0.40406474
+ You know me well, sittin' on the edge of my seat		---|---- numarul de cuvinte 11------|0.7990751
+ Lookin' at life, overanalyzin' everything		---|---- numarul de cuvinte 5------|0.97479993
+ Always depressed, tryna find a better version of me		---|---- numarul de cuvinte 9------|0.51732236
+ Searching for somethin' I know's prolly right in front of my feet		---|---- numarul de cuvinte 12------|0.10845952
+ Stubborn as me? Maybe not, but you're close to it		---|---- numarul de cuvinte 10------|0.64626676
+ Got a lot of issues, I'm tryin' to work through 'em		---|---- numarul de cuvinte 11------|0.41229755
+ Going to therapy for you's somethin' that's worth doin'		---|---- numarul de cuvinte 9------|0.8158515
+ When I know you been there for me through all of my worst moments		---|---- numarul de cuvinte 14------|0.84531957
+ And I know it hurts knowing that I carry this weight on my chest		---|---- numarul de cuvinte 14------|0.11732752
+ Making it difficult for me to open up and connect		---|---- numarul de cuvinte 10------|0.23993585
+ Lot of regrets, I apologize for all of the stress		---|---- numarul de cuvinte 10------|0.9080618
+ THAT'S NOT WHAT I MEANT TO DO, YOU KNOW I LOVE YOU TO DEATH EVEN IF—		---|---- numarul de cuvinte 16------|0.07406463
+ Even if we both break down tonight		---|---- numarul de cuvinte 7------|0.16101338
+ And you say you hate me, and we go to bed angry		---|---- numarul de cuvinte 12------|0.62809014
+ I KNOW EVERYTHING WILL BE ALRIGHT		---|---- numarul de cuvinte 6------|0.044118147
+ I'll be here waiting, I promise I'm changing		---|---- numarul de cuvinte 8------|0.19135503
+ I just need		---|---- numarul de cuvinte 3------|0.6036988
+ Time (oh)		---|---- numarul de cuvinte 2------|0.34035507	(*)
+ I, I need time (oh, oh)		---|---- numarul de cuvinte 6------|0.12813944
+ I just need time (oh)		---|---- numarul de cuvinte 5------|0.46522638	(*)
+ I, I need time (oh)		---|---- numarul de cuvinte 5------|0.3047187	(*)
+ Time (oh), time (oh)		---|---- numarul de cuvinte 4------|0.9078258	(*)
+ I just need time (oh)		---|---- numarul de cuvinte 5------|0.865599	(*)
+ I, I NEED TIME (OH, OH)		---|---- numarul de cuvinte 6------|0.044679254
+ I just need time (oh)		---|---- numarul de cuvinte 5------|0.40105945	(*)
+ I, I need time (oh)		---|---- numarul de cuvinte 5------|0.9179132	(*)
+ Time (oh), time (oh)		---|---- numarul de cuvinte 4------|0.14230081	(*)
