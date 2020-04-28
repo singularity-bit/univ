@@ -1,0 +1,14 @@
+<!ELEMENT optionale (optional)+>
+<!ELEMENT optional (nume,profesor,an,url,studenti,recomandari)>
+<!ELEMENT nume (#PCDATA)>
+<!ELEMENT profesor (#PCDATA)>
+<!ELEMENT an (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT studenti EMPTY>
+<!ELEMENT recomandari (curs)+>
+<!ELEMENT curs (#PCDATA)>
+<!ATTLIST optional id ID #REQUIRED >
+<!ATTLIST studenti
+min CDATA #IMPLIED
+max CDATA #IMPLIED
+>
