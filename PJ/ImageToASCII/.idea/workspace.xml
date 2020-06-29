@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cad5f2f6-0ce1-4110-8de9-c5e8d3cad667" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnv7nrhm0miAoKjeKA4SXeZC2v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageToASCII.Main" />
+      <module name="ImageToASCII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad5f2f6-0ce1-4110-8de9-c5e8d3cad667" name="Default Changelist" comment="" />
+      <created>1593073506831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593073506831</updated>
+      <workItem from="1593073508610" duration="4094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593075135170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593075135170" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593075133511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1593075133511" />
+    <state width="728" height="145" key="GridCell.Tab.0.bottom" timestamp="1593078228849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="728" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593078228849" />
+    <state width="728" height="145" key="GridCell.Tab.0.center" timestamp="1593078228849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="728" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593078228849" />
+    <state width="728" height="145" key="GridCell.Tab.0.left" timestamp="1593078228849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="728" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593078228849" />
+    <state width="728" height="145" key="GridCell.Tab.0.right" timestamp="1593078228849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="728" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593078228849" />
+  </component>
+</project>
