@@ -248,9 +248,15 @@ def main(genomes,config):
                 nets.pop(x)
                 ge.pop(x)
 
+<<<<<<< HEAD
         # if score>10:
         #    pickle.dump(nets[0],open("best.pickle", "wb"))
         #    break
+=======
+        if score>10:
+           pickle.dump(nets[0],open("best.pickle", "wb"))
+           break
+>>>>>>> 5da3e5d7d217af3be2d3c66e96d0d79415c415ac
 
         base.move()
         draw_window(win,birds,pipes,base,score)
@@ -276,3 +282,8 @@ if __name__=="__main__":
     
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5da3e5d7d217af3be2d3c66e96d0d79415c415ac

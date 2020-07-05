@@ -1,7 +1,11 @@
 [NEAT]
 fitness_criterion     = max
 fitness_threshold     = 100
+<<<<<<< HEAD
 pop_size              = 100
+=======
+pop_size              = 50
+>>>>>>> 5da3e5d7d217af3be2d3c66e96d0d79415c415ac
 reset_on_extinction   = False
 
 [DefaultGenome]
